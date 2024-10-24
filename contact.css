@@ -396,6 +396,9 @@ section.left .socialmedia{
         width: 100%;
         padding: 10px;
     }
+    .column .details span a{
+        font-size: 11px;
+    }
 
     
     .left-column {
@@ -544,6 +547,9 @@ section.left .socialmedia{
         width: 100%;
         padding: 10px;
     }
+    .column .details span a{
+        font-size: 11px;
+    }
 
     
     .left-column {
@@ -691,6 +697,9 @@ section.left .socialmedia{
         float: none;
         width: 100%;
         padding: 10px;
+    }
+    .column .details span a{
+        font-size: 11px;
     }
 
     
