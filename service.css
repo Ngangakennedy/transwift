@@ -213,14 +213,14 @@ body{
     .header .gmail-container {
         flex-direction: row;
         margin-right: 0;
-        gap: 10px;
+        gap: 6px;
         justify-content: center;
     }
 
     .header .gmail .icon {
         font-size: 24px;
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 
     .details span {
@@ -349,14 +349,14 @@ body{
     .header .gmail-container {
         flex-direction: row;
         margin-right: 0;
-        gap: 10px;
+        gap: 6px;
         justify-content: center;
     }
 
     .header .gmail .icon {
         font-size: 24px;
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 
     .details span {
@@ -451,7 +451,7 @@ body{
         font-size: smaller;
     }
 }
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 568px) {
 
     
     * {
@@ -485,14 +485,14 @@ body{
     .header .gmail-container {
         flex-direction: row;
         margin-right: 0;
-        gap: 10px;
+        gap: 6px;
         justify-content: center;
     }
 
     .header .gmail .icon {
         font-size: 24px;
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 
     .details span {
